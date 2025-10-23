@@ -1,0 +1,9 @@
+
+# Meetup: Better, faster, stronger prototypes
+
+Event:
+- [Meetup](https://www.meetup.com/generative-ai-nantes/events/304148545/)
+- [Eventbrite](https://www.eventbrite.com/e/s3e3-better-faster-stronger-prototypes-appels-doffres-visuels-tickets-1055594554729)
+
+Resources:
+- [Slides GenAI News](./genai-news.pdf)
