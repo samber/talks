@@ -1,5 +1,4 @@
-# talks
-🎙️ Talks at conferences, meetups, and more
+# 🎙️ Talks at conferences, meetups, and more
 
 <img width="3808" height="1280" alt="image" src="https://github.com/user-attachments/assets/89d0205e-cd45-460a-9859-af88657914fa" />
 
@@ -8,6 +7,7 @@ I currently lead the Generative AI meetup in Nantes, France:
 - [Eventbrite](https://www.eventbrite.com/o/generative-ai-nantes-73163402733)
 
 ### 2025
+- [**REX Open Source Maintainer**](./2025-10-30%20-%20REX%20open%20source%20maintainer/) - 2025-10-30
 - [**Monthly GenAI News**](./2025-09-23%20-%20GenAI%20News%20-%20September%202025/) - 2025-09-23
 - [**Workshop Cursor (Devfest Nantes)**](./2025-10-16%20-%20Workshop%20Cursor%20%28Devfest%20Nantes%29/) - 2025-10-16
 - [**Monthly GenAI News**](./2025-06-11%20-%20GenAI%20News%20-%20June%202025/) - 2025-06-11
