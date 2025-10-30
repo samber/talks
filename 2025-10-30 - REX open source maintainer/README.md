@@ -8,4 +8,6 @@ Event:
 Resources:
 - [Slides](./rex-opensource-maintainer.pdf)
 
+Merci à Jean-Philippe Baconnais pour l'invitation ;)
+
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/51bcdd0e-5048-4a80-b8e8-a1afb8ae6ca2" />
