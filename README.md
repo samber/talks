@@ -7,6 +7,7 @@ I currently lead the Generative AI meetup in Nantes, France:
 - [Eventbrite](https://www.eventbrite.com/o/generative-ai-nantes-73163402733)
 
 ### 2025
+- [**OpenMic: REX Open Source Maintainer**](./2025-11-04%20-%20OpenMic%20-%20REX%20open%20source%20maintainer/) - 2025-11-04
 - [**REX Open Source Maintainer**](./2025-10-30%20-%20REX%20open%20source%20maintainer/) - 2025-10-30
 - [**Monthly GenAI News**](./2025-09-23%20-%20GenAI%20News%20-%20September%202025/) - 2025-09-23
 - [**Workshop Cursor (Devfest Nantes)**](./2025-10-16%20-%20Workshop%20Cursor%20%28Devfest%20Nantes%29/) - 2025-10-16
