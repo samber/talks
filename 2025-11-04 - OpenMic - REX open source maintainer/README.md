@@ -9,3 +9,4 @@ Resources:
 
 Merci à _icilundi pour l'accueil ;)
 
+<img width="940" height="528" alt="image" src="https://github.com/user-attachments/assets/e468b4c1-f570-467e-be86-83daa5b432a6" />
