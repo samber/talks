@@ -1,5 +1,5 @@
 
-# Meetup: CEA - Biais politique dans les LLMs et comment les atténuer
+# Meetup: Seelab - Prompt to Video: comment l'IA redéfinit la publicité
 
 Event:
 - [Meetup](https://www.meetup.com/generative-ai-nantes/events/311842904/)
