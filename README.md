@@ -6,6 +6,9 @@ I currently lead the Generative AI meetup in Nantes, France:
 - [Meetup](https://www.meetup.com/generative-ai-nantes)
 - [Eventbrite](https://www.eventbrite.com/o/generative-ai-nantes-73163402733)
 
+### 2026
+- [**Go beyond channels**](./2026-01-14%20-%20Go%20beyond%20channels/) - 2026-01-14
+
 ### 2025
 - [**Monthly GenAI News**](./2025-12-10%20-%20GenAI%20News%20-%20December%202025/) - 2025-12-10
 - [**Monthly GenAI News**](./2025-11-19%20-%20GenAI%20News%20-%20November%202025/) - 2025-11-19
