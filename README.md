@@ -7,6 +7,7 @@ I currently lead the Generative AI meetup in Nantes, France:
 - [Eventbrite](https://www.eventbrite.com/o/generative-ai-nantes-73163402733)
 
 ### 2026
+- [**Dev with AI**](./2026-04-02%20-%20Dev%20with%20AI/) - 2026-04-02
 - [**Dev with AI**](./2026-03-17%20-%20Dev%20with%20AI/) - 2026-03-17
 - [**REX Open Source Maintainer**](./2026-02-04%20-%20REX%20open%20source%20maintainer/) - 2026-02-04
 - [**Monthly GenAI News**](./2026-01-15%20-%20GenAI%20News%20-%20January%202026/) - 2026-01-15

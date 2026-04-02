@@ -1,5 +1,5 @@
 
-# Talk: Dev with AI @ESGI
+# Talk: Dev with AI @ ESGI
 
 Resources:
 - [Slides](./dev-with-ai.pdf)
