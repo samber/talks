@@ -7,6 +7,7 @@ I currently lead the Generative AI meetup in Nantes, France:
 - [Eventbrite](https://www.eventbrite.com/o/generative-ai-nantes-73163402733)
 
 ### 2026
+- [**Monthly GenAI News**](./2026-06-18%20-%20GenAI%20news%20-%20June%202026/) - 2026-06-18
 - [**AI: Future of Work**](./2026-05-30%20-%20Future%20of%20work/) - 2026-05-30
 - [**Openclaw: Getting started**](./2026-05-02%20-%20Openclaw/) - 2026-05-02
 - [**cc-skils-golang**](./2026-04-28%20-%20cc-skills-golang/) - 2026-04-28
