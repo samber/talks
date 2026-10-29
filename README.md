@@ -5,8 +5,12 @@
 I currently lead the Generative AI meetup in Nantes, France:
 - [Meetup](https://www.meetup.com/generative-ai-nantes)
 - [Eventbrite](https://www.eventbrite.com/o/generative-ai-nantes-73163402733)
+- [GenAI Days](https://genai-days-nantes.com/)
+- [Non profit organization](https://naomakers.com/)
+- [Shift Hackathon](https://shift-hackathon.com/)
 
 ### 2026
+- [**User tests**](./2026-10-29%20-%20User%20tests/) - 2026-10-29
 - [**Monthly GenAI News**](./2026-06-18%20-%20GenAI%20news%20-%20June%202026/) - 2026-06-18
 - [**AI: Future of Work**](./2026-05-30%20-%20Future%20of%20work/) - 2026-05-30
 - [**Openclaw: Getting started**](./2026-05-02%20-%20Openclaw/) - 2026-05-02
